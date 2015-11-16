@@ -1,0 +1,19 @@
+{
+  "name": "array-these-keys",
+  "version": "0.0.0",
+  "description": "Takes a JS value, and coerces a set of keys to be arrays, if they were not already.",
+  "main": "arrayify.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/droppedoncaprica/array-these-keys.git"
+  },
+  "author": "Albert Engelbrecht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/droppedoncaprica/array-these-keys/issues"
+  },
+  "homepage": "https://github.com/droppedoncaprica/array-these-keys"
+}
